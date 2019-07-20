@@ -1,4 +1,6 @@
-# Tom's Toolbox ![Badge](https://tom-englert.visualstudio.com/_apis/public/build/definitions/75bf84d2-d359-404a-a712-07c9f693f635/8/badge) [![NuGet Status](http://img.shields.io/nuget/v/TomsToolbox.Wpf.svg?style=flat)](https://www.nuget.org/packages?q=tomstoolbox)
+# Tom's Toolbox
+This is the history of version 1.x 
+---
 A set of core functions and classes to ease every days .Net development tasks.
 
 Contains many extension methods, a WPF Composite MVVM framework, Controls etc...
